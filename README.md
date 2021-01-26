@@ -18,6 +18,7 @@ JWT_COOKIE_EXPIRE=30
 
 
 //SMTP environment variables not required 
+
 SMTP_HOST=smtp.mailtrap.io
 SMTP_PORT=2525
 SMTP_EMAIL=
