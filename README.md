@@ -3,6 +3,9 @@
 seed data: 
 
 node seeder -i
+
+start app:
+
 npm run dev
 
 config/config.env: 
