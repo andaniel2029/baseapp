@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "5d713995b721c3bb38c1f5d0",
+    "name": "Test group 1",
+    "description": "Devworks is a full stack JavaScript Bootcamp located in the heart of Boston that focuses on the technologies you need to get a high paying job as a web developer",
+    "users": [
+      {
+        "user": "5d7a514b5d2c12c7449be043",
+        "role": "creator"
+      },
+      {
+        "user": "5d7a514b5d2c12c7449be044",
+        "role": "moderator"
+      },
+      {
+        "user": "5d7a514b5d2c12c7449be042",
+        "role": "user"
+      }
+    ],
+    "requests": [
+      {
+        "user": "5d7a514b5d2c12c7449be045",
+        "message": "requesting to join"
+      }
+    ],
+    "groupGames": [
+      { "game": "5d725a4a7b292f5f8ceff789" },
+      { "game": "5d725c84c4ded7bcb480eaa0" }
+    ]
+  },
+  {
+    "_id": "5d713a66ec8f2b88b8f830b8",
+    "user": "5d7a514b5d2c12c7449be046",
+    "name": "ModernTech Bootcamp",
+    "description": "ModernTech has one goal, and that is to make you a rockstar developer and/or designer with a six figure salary. We teach both development and UI/UX",
+    "users": [
+      {
+        "user": "5d7a514b5d2c12c7449be046",
+        "role": "creator"
+      }
+    ]
+  }
+]
