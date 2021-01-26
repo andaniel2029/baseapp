@@ -6,6 +6,8 @@ node seeder -i
 
 start app:
 
+npm install
+
 npm run dev
 
 _________________________
