@@ -1,8 +1,11 @@
 # baseapp
 
-start app: npm run dev
+seed data: 
 
-config.env: 
+node seeder -i
+npm run dev
+
+config/config.env: 
 
 NODE_ENV=development
 
